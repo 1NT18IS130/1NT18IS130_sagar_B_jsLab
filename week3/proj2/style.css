@@ -1,0 +1,33 @@
+.b1 {
+    border: 5px solid rebeccapurple;
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+  }
+
+  .b2 {
+    border: 5px solid rebeccapurple;
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 150px;
+    height: 75px;
+  }
+
+  .b3 {
+    border: 5px solid rebeccapurple;
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 50px;
+    height: 30px;
+  }
+
+  .b4 {
+      width: 20px;
+      height: 10px;
+      border: 2px solid;
+      background-color: red;
+  }

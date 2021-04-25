@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+}
+
+.one {
+    padding: 20px;
+    background-color: aquamarine;
+    height: 30px;
+    width: 30px;
+    visibility: visible;
+}
+
+.two {
+    padding: 20px;
+    background-color:coral;
+    height: 30px;
+    width: 30px;
+    visibility: visible;
+}
+
+.three {
+    padding: 20px;
+    background-color:darkslategray;
+    height: 30px;
+    width: 30px;
+    visibility: visible;
+}
