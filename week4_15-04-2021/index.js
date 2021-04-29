@@ -8,6 +8,9 @@ divs.forEach(div => {
             if(div_id.style.visibility == "hidden") {
                 console.log("You can move ahead")
             }
+            else {
+                console.log("Please click first");
+            }
         })
     }
 })
