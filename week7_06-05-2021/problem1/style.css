@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    height: 50px;
+    width: 500px;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
