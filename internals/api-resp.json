@@ -1,0 +1,39 @@
+{
+    "id": 405,
+    "uid": "cbe35980-6a27-405c-a352-cc452e52b1b0",
+    "password": "N1rjnWhIL9",
+    "first_name": "Eldridge",
+    "last_name": "Parker",
+    "username": "eldridge.parker",
+    "email": "eldridge.parker@email.com",
+    "avatar": "https://robohash.org/consequatursitet.png?size=300x300&set=set1",
+    "gender": "Male",
+    "phone_number": "+256 911-728-6397 x609",
+    "social_insurance_number": "486539141",
+    "date_of_birth": "1990-04-02",
+    "employment": {
+      "title": "Regional Mining Strategist",
+      "key_skill": "Communication"
+    },
+    "address": {
+      "city": "Juliannville",
+      "street_name": "Runolfsdottir Plains",
+      "street_address": "855 Veum Loop",
+      "zip_code": "10509",
+      "state": "Wyoming",
+      "country": "United States",
+      "coordinates": {
+        "lat": -74.02381344175285,
+        "lng": -98.24605001326528
+      }
+    },
+    "credit_card": {
+      "cc_number": "5323-0019-1640-7163"
+    },
+    "subscription": {
+      "plan": "Standard",
+      "status": "Blocked",
+      "payment_method": "Paypal",
+      "term": "Annual"
+    }
+  }

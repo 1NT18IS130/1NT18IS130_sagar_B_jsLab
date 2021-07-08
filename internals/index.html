@@ -1,0 +1,38 @@
+<!-- Title: 10. Create an application to demonstrate uri fetch from at least two different servers on same page -->
+<!-- Description: interacting with two apis, one for dog images and the other for user details using promises
+                  and using DOM manipulation to show the reponses-->
+<!-- Author: Sagar M 1NT18IS130 -->
+<!-- Date: 08/07/2021 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script defer type="text/javascript" src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <div id="parent" class="flex-container">
+        <div id="image-div" class="flex-item">
+            <img src="cat.png" class="image" id="cat">
+            <button id="but1" type="button" class="btn btn-primary">Random Image</button>
+        </div>
+        <div class="user-details" class="flex-item">
+            <div class="box">
+                <p id="user-id"><b><em>ID: </em></b> 101</p>
+                <p id="first-name"><b><em>First Name: </em></b> Sagar</p>
+                <p id="last-name"><b><em>Last Name: </em></b> M</p>
+                <p id="user-email"><b><em>Email: </em></b>test@email.com</p>
+                <p id="user-phone"><b><em>Phone Number: </em></b>+256 911-728-6397 x609</p>
+            </div>
+            <button id="but2" type="button" class="btn btn-primary">Random Details</button>
+        </div>
+    </div>
+
+
+</body>
+</html>
